@@ -14,7 +14,7 @@ I focus on bridging the gap between unstructured data and actionable business in
   
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Animation" width="600" />
 
-📫 **Let's Connect:** Reach out on Discord `@mr.woozie` <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Coding Animation" width="50" />
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Coding Animation" width="50" /> **Let's Connect:** Reach out on Discord `@mr.woozie` 
 
 <!---
 Woozie02/Woozie02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
