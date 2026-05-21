@@ -1,7 +1,14 @@
-- Hi, I’m @Woozie02
-- I’m interested in learning more about Python scripts and Machine Learning (ML)
-- I’m currently learning Artificial Intelligence in Computer Science as of 2023 and will be graduating in early 2025.
-- 📫 Feel free to reach me on my discord @mr.woozie.
+# Hi, I'm @Woozie02 👋
+
+I am an Intelligent Systems Engineering graduate specializing in Artificial Intelligence and Data Science. My experience spans building advanced AI pipelines, data automation tools, and in-house systems for energy, logistics, and public sector organizations. 
+
+I focus on bridging the gap between unstructured data and actionable business intelligence using modern machine learning frameworks.
+
+- 🧠 **AI & Data Science:** Advanced Neural Topic Modeling (BERTopic, UMAP, HDBSCAN), Predictive Analytics, and ETL pipelines
+- 🐍 **Technical Toolkit:** Python (Pandas, Scikit-learn, Keras), SQL, PHP, and Power BI / PowerApps
+- 🚀 **Core Interests:** Machine Learning, Vibe-coding, Intelligent Automation, and Enterprise Data Workflows
+
+📫 **Let's Connect:** Reach out on Discord `@mr.woozie`
 
 <!---
 Woozie02/Woozie02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
