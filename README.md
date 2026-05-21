@@ -4,6 +4,8 @@ I am an Intelligent Systems Engineering graduate specializing in Artificial Inte
 
 I focus on bridging the gap between unstructured data and actionable business intelligence using modern machine learning frameworks.
 
+<img src="[url-to-your-gif.gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" alt="Coding Animation" width="300" />
+
 - 🧠 **AI & Data Science:** Advanced Neural Topic Modeling (BERTopic, UMAP, HDBSCAN), Predictive Analytics, and ETL pipelines
 - 🐍 **Technical Toolkit:** Python (Pandas, Scikit-learn, Keras), SQL, PHP, and Power BI / PowerApps
 - 🚀 **Core Interests:** Machine Learning, Vibe-coding, Intelligent Automation, and Enterprise Data Workflows
